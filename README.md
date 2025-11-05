@@ -1,7 +1,7 @@
 # IBM-HR-Analytics
 This Project analyzes IBM's HR dataset to uncover information about employee attrition, age distribution, job satisfaction, and other HR trends.
 ## HR Dashboard
-IBM_HR_Analytics_Dashboard
+IBM_HR_Analytics_Dashboard.xlsx
 ## Tools Used
 Microsoft Excel(Pivot Tables, Charts)
 ## Key Insights
