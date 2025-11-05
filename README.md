@@ -1,2 +1,6 @@
 # IBM-HR-Analytics
-HR Analytics project analyzing IBM employee data using Excel- exploring attrition, demographics, and workforce trends.
+This Project analyzes IBM's HR dataset to uncover information about employee attrition, age distribution, job satisfaction, and other HR trends.
+Tools Used: Microsoft Excel(Pivot Tables, Charts)
+Key Insights: Identified major factors influencing employee attrition, visualized trends by age, department, and job role, and developed a dashboard for HR decision-making
+Dataset: IBM HR Dataset ( available on Kaggle)
+
